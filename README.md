@@ -3,13 +3,12 @@
 <b>BACKGROUND</b><br>
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
 
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. In this case, a database of 4,000 past Kickstarter projects were organized and analyzed in order to uncover any hidden trends.
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. In this case, a database of 4,000 past Kickstarter projects were organized and analyzed in order to uncover market trends as follows:
 
 <div align="center"><img src="static/images/kickstarter_record_player.png" width="500" height="500"/></div>
 <br>
 
 <b>DETAILS</b><br>
-Using an Excel table, the data from 4,000 past Kickstarter projects was modified and analyzed to uncover market trends as follows:
 
   - Conditional formatting was used to fill each cell in the state column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
 
