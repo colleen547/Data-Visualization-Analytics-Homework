@@ -1,4 +1,4 @@
-# excel-challenge - Kickstart My Chart
+### Excel Challenge - Kickstart My Chart
 
 <b>BACKGROUND</b><br>
 <br>
